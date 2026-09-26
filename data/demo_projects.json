@@ -1,0 +1,62 @@
+[
+  {
+    "id": "north-001",
+    "utility": "Demo Utility North",
+    "project_name": "North Ridge Substation Expansion",
+    "description": "Expansion of an existing substation and replacement of aging equipment.",
+    "project_type": "substation",
+    "latitude": 26.1224,
+    "longitude": -80.1434,
+    "location": "North Ridge, Broward County",
+    "state": "FL",
+    "start_date": "2027-01-15",
+    "end_date": "2027-06-30",
+    "status": "planned",
+    "source_url": "https://example.com/demo-utility-north/north-ridge"
+  },
+  {
+    "id": "north-002",
+    "utility": "Demo Utility North",
+    "project_name": "Lakeside Transmission Upgrade",
+    "description": "Replacement of transmission structures along the Lakeside corridor.",
+    "project_type": "transmission",
+    "latitude": 26.2712,
+    "longitude": -80.1025,
+    "location": "Lakeside, Broward County",
+    "state": "FL",
+    "start_date": "2027-09-01",
+    "end_date": "2028-02-15",
+    "status": "planned",
+    "source_url": "https://example.com/demo-utility-north/lakeside"
+  },
+  {
+    "id": "south-001",
+    "utility": "Demo Utility South",
+    "project_name": "South Ridge Distribution Rebuild",
+    "description": "Rebuild of distribution lines and poles near the North Ridge service boundary.",
+    "project_type": "distribution",
+    "latitude": 26.1541,
+    "longitude": -80.1662,
+    "location": "South Ridge, Broward County",
+    "state": "FL",
+    "start_date": "2027-03-01",
+    "end_date": "2027-05-31",
+    "status": "planned",
+    "source_url": "https://example.com/demo-utility-south/south-ridge"
+  },
+  {
+    "id": "south-002",
+    "utility": "Demo Utility South",
+    "project_name": "Lakeside Fiber Relocation",
+    "description": "Relocation of communications facilities to support planned corridor work.",
+    "project_type": "fiber/communications",
+    "latitude": 26.2855,
+    "longitude": -80.1188,
+    "location": "Lakeside, Broward County",
+    "state": "FL",
+    "start_date": "2027-10-15",
+    "end_date": "2028-01-31",
+    "status": "planned",
+    "source_url": "https://example.com/demo-utility-south/lakeside"
+  }
+]
